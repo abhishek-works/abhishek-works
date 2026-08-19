@@ -1,22 +1,56 @@
-<h1 align="center">Hi 👋, I'm Abhishek Chaudhary</h1>
-<h3 align="center">I'm web developer and a passinate problem solver
-</h3>
-<img align="right" alt="coding width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hi 👋, I'm Abhishek Chaudhary
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-works&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-works" /> </p>
+### Full Stack Developer | C++ | DSA | Open Source
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🎓 B.Tech Computer Science Engineering | 2027
 
-- 📫 How to reach me **abhishek.2327cs1190@kiet.edu**
+💻 Building scalable web applications and learning system design
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek chaudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/i_abhishhek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_abhishhek" height="30" width="40" /></a>
-</p>
+🚀 Currently working on:
+- Full Stack projects
+- Data Structures & Algorithms
+- System Design
+- Backend & scalable architectures
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-works&show_icons=true&locale=en&layout=compact" alt="abhishek-works" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-works&show_icons=true&locale=en" alt="abhishek-works" /></p>
+**Languages**
+C++ • JavaScript • SQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-works&" alt="abhishek-works" /></p>
+**Frontend**
+React • HTML • CSS • Tailwind CSS
+
+**Backend**
+Node.js • Express.js
+
+**Database**
+PostgreSQL • MongoDB • Redis
+
+**Tools & Platforms**
+Git • GitHub • Docker • Vercel • Cloudinary • Neon
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **CineForge**  
+AI-powered video generation platform
+
+🔹 **CampusWardrobe**  
+Full-stack campus clothing/booking platform
+
+🔹 **Digital Mental Health Support System**  
+Full-stack web application
+
+---
+
+### 🧠 Coding
+
+- LeetCode: Consistent DSA practice
+- Focus: DSA, problem solving & competitive programming
+
+---
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/abhiiworkss/) • [LeetCode](https://leetcode.com/u/abhi_overflow/)
