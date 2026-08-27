@@ -65,14 +65,14 @@
 
 <div align="center">
 
-<a href="https://github.com/abhishek-works">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-works&repo=CampusWardrobe&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/abhishek-works">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-works&repo=CineForge&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/abhishek-works">
+<a href="https://github.com/abhishek-works/safeHer-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-works&repo=safeHer-&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/abhishek-works/CAMPUSWARDROBE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-works&repo=CAMPUSWARDROBE&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/abhishek-works/Kashmir_Connect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-works&repo=Kashmir_Connect&theme=radical&hide_border=true" />
 </a>
 
 </div>
@@ -91,7 +91,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishek-works&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-works&theme=radical&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=abhishek-works&theme=radical&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-works&layout=compact&theme=radical&hide_border=true" width="48%" />
 
@@ -119,7 +119,7 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/abhiiworkss"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/abhioverflow"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/abhi_overflow"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://codeforces.com/profile/abhi_overflow"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 </div>
