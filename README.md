@@ -86,32 +86,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek-works&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=abhishek-works&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-works&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-</div>
-
-<br/>
-
-<br/>
-
-## 🏆 Coding Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek-works&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
-
-- 🟢 **LeetCode:** Consistent DSA practice
-- 🎯 **Focus:** DSA, problem solving & competitive programming
-
 <br/>
 
 ## 🤝 Connect With Me
