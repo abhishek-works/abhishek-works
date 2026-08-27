@@ -3,11 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There%20👋,%20I'm%20Abhishek%20Chaudhary&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Competative%20Programmer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+scalable+web+applications+%F0%9F%9A%80;Learning+System+Design+%E2%9A%99%EF%B8%8F;Solving+DSA+%2F+Competitive+Programming+%F0%9F%A7%A0;Open+to+Full+Stack+opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=220&lines=Building+scalable+web+applications+%F0%9F%9A%80;Learning+System+Design+%E2%9A%99%EF%B8%8F;Solving+DSA+%2F+Competitive+Programming+%F0%9F%A7%A0;Open+to+Full+Stack+opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 </div>
 
+<br/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
